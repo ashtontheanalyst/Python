@@ -1,6 +1,5 @@
 Refreshing Python Fundementals
 ------------------------------
-------------------------------
 
 Following this tutorial series: https://www.youtube.com/watch?v=ix9cRaBkVe0
 

@@ -3,7 +3,7 @@ Refreshing Python Fundementals
 
 Following this tutorial series: https://www.youtube.com/watch?v=ix9cRaBkVe0
 
-Currently at time: **1:00:07 minutes**
+Currently at time: **1:32:36 minutes**
 
 
 

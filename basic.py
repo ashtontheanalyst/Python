@@ -1,7 +1,8 @@
 # This is a comment, we use # instead of // like in C++
-print("Hello Rupert the Dog")
+print("Hello Rupert", end=" ")
+print("the Dog!")
 print("I meant... hello world!")
-
+# SUPER IMPORTANT, if we don't want print() to spit a \n, specify with ,end="something"
 
 
 # Strings

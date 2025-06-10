@@ -34,5 +34,8 @@ python -m venv myenv
 <br><br>
 
 ## Downloading a 'requirements.txt' File
-A requirements.txt file contains a list of packages/tools that need to be downloaded in order
-to run an application.
+A `requirements.txt` file contains a list of packages/tools that need to be downloaded in order
+to run an application. These are downloaded inside of the virtual environment.
+```sh
+pip install -r requirements.txt
+```

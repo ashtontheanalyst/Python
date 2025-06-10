@@ -1,6 +1,6 @@
 # Installing and Using Git on Windows
 
-![Alt Text](https://pngimg.com/d/github_PNG25.png)
+![Alt Text](./assets/pngimg.com%20-%20github_PNG25.png)
 
 ## Installing Git
 - Go to this link: https://git-scm.com/downloads/win

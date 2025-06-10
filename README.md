@@ -1,5 +1,6 @@
-Refreshing Python Fundementals
-------------------------------
+# Refreshing Python Fundementals
+
+![Alt Text](./assets/Python_logo_1990s.svg.png)
 
 Following this tutorial series: https://www.youtube.com/watch?v=ix9cRaBkVe0
 

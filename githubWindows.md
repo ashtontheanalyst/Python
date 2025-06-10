@@ -1,13 +1,12 @@
-Installing and Using Git on Windows
-------------------------------------
+# Installing and Using Git on Windows
 
 ![Alt Text](https://pngimg.com/d/github_PNG25.png)
 
-### Installing Git
+## Installing Git
 - Go to this link: https://git-scm.com/downloads/win
 - Download the latest version for windows
 
-### Setting up Git
+## Setting up Git
 - Open a windows terminal
 - Run 'git' to see if you have it downloaded, should show options
 - Set cred's:
@@ -15,7 +14,7 @@ Installing and Using Git on Windows
 git config --global user.name "Your Name"
 git config --global user.email "you@example.com"
 
-### Cloning a Repo
+## Cloning a Repo
 - In VS Code or a terminal, navigate to where you want the repo to land
 - Example clone:
 

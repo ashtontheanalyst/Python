@@ -1,7 +1,7 @@
 # Personal Python Library
 This repo holds code to be referenced for later that I find useful.
 
-![Alt Text](assets\pythonBook.jpg)
+![Alt Text](./assets/pythonGIF.gif)
 
 ## Fundementals
 Reference folder for basic python programming.

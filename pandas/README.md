@@ -2,12 +2,9 @@
 
 ![Alt Text](../assets/panda.gif)
 
-### Following this video: 
-https://www.youtube.com/watch?v=2uvysYbKdjM  
-Just wanted to brush up on some skills for data science and work.
-<br><br>
+The tutorial by Keith Galli can be found [here](https://www.youtube.com/watch?v=2uvysYbKdjM)
 
-## Virtual Environment for Python
+## Virtual Environment for Python Instructions
 
 ### Create the Environment
 ```sh

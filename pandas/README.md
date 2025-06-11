@@ -1,5 +1,7 @@
 # Pandas Tutorial
 
+![Alt Text](../assets/panda.gif)
+
 ### Following this video: 
 https://www.youtube.com/watch?v=2uvysYbKdjM  
 Just wanted to brush up on some skills for data science and work.

@@ -1,6 +1,6 @@
 # Refreshing Python Fundementals
 
-![Alt Text](./assets/oldPython.png)
+![Alt Text](../assets/pythonCoiled.gif)
 
 Following this tutorial series: https://www.youtube.com/watch?v=ix9cRaBkVe0
 

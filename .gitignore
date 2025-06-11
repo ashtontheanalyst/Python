@@ -132,7 +132,6 @@ celerybeat.pid
 .env
 .venv
 env/
-myenv/
 venv/
 ENV/
 env.bak/
@@ -197,6 +196,4 @@ cython_debug/
 
 #----------------------------------------------------------------------------------------------
 # Personal touches:
-pandas/myenv/
-pandas/vidMaterials/
 vidMaterials/

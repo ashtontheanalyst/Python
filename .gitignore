@@ -197,4 +197,6 @@ cython_debug/
 
 #----------------------------------------------------------------------------------------------
 # Personal touches:
+pandas/myenv/
 pandas/vidMaterials/
+vidMaterials/

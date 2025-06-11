@@ -1,28 +1,18 @@
-# Refreshing Python Fundementals
+# Personal Python Library
+This repo holds code to be referenced for later that I find useful.
 
-![Alt Text](./images/Python_logo_1990s.svg.png)
+![Alt Text](assets\pythonBook.jpg)
 
-Following this tutorial series: https://www.youtube.com/watch?v=ix9cRaBkVe0
+## Fundementals
+Reference folder for basic python programming.
+- Includes things like data types, conditionals, loops, etc.
+- The `projects` folder contains some applications that put those skills in motion
+- Video series by **Bro Code**: https://www.youtube.com/watch?v=ix9cRaBkVe0
 
-Currently at time: **3:03:40 minutes**
+## Pandas
+Reference for the commonly used data science/analytics python tool.
+- (Currently working on)
+- Tutorial video by **Keith Galli**: https://www.youtube.com/watch?v=2uvysYbKdjM
 
-
-### Project Ideas:
-1. **Graphical Roth and Traditional IRA Calculator**
-    -  Screen pops up for user input like principal, interest, monthly cont., and etc.
-    - Calculates both the Roth and Trad.
-    - Shows the yearly balance on histograms in blue and red
-    - Can hover over points to see specific details
-
-### What's Next...
-
-When I've completed the refresher and feel up to speed, I'd like to then get into Machine
-Learning with something like Tensor Flow or similar. There are a couple video tutorials I've
-seen recently and will link below:
-- https://www.youtube.com/watch?v=7eh4d6sabA0&t=1124s
-- https://www.youtube.com/watch?v=i_LwzRVP7bg
-
-It would also be good to brush up on my skills in these:
-- Pandas
-- Numpy
-- Matplotlib
+## Misc
+- `assets` folder is just a general folder for later use with fonts, images, audio, etc.

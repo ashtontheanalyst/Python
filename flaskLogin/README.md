@@ -1,4 +1,5 @@
 # Flask Login
+![Alt Text](./assets/flask.png)  
 Simple login screen for a flask application.
 
 ## Virtual Environment for Python Instructions
@@ -33,4 +34,20 @@ A `requirements.txt` file contains a list of packages/tools that need to be down
 to run an application. These are downloaded inside of the virtual environment.
 ```sh
 pip install -r requirements.txt
+```
+
+## HTML Boiler Plate
+- If you open a blank .html file and click "! + Tab", it'll give you this:
+```sh
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+</body>
+</html>
 ```

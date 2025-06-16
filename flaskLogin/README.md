@@ -1,6 +1,6 @@
 # Flask Login
 ![Alt Text](./assets/flask.png)  
-Simple login screen for a flask application.
+Simple [login screen](https://www.youtube.com/watch?v=71EU8gnZqZQ) for a flask application: 14:45min
 
 ## Virtual Environment for Python Instructions
 
@@ -35,6 +35,11 @@ to run an application. These are downloaded inside of the virtual environment.
 ```sh
 pip install -r requirements.txt
 ```
+
+## Installing SQLite (Windows)
+- Visit [this](https://www.sqlite.org/download.html) page and download a compiled binary
+- Extract it into something like `C:\sqlite\`
+- **ADD IT AS A ENVIRONMENT VAR.**
 
 ## HTML Boiler Plate
 - If you open a blank .html file and click "! + Tab", it'll give you this:

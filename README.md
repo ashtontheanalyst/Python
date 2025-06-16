@@ -10,6 +10,16 @@ Quick click --> [fundementals](./fundementals/)
 - The `projects` folder contains some applications that put those skills in motion
 - Video series by **Bro Code** can be found [here](https://www.youtube.com/watch?v=ix9cRaBkVe0)
 
+## Kivy
+This is for application development cross platform  
+Quick click --> [kivy](./kivy/)
+- This is mostly useful for if I wanted to make that espresso app on phone
+- Could also be used for the ATAK clone for work
+
+## Flask Login
+Quick Flask functionality for a login page  
+Quick click --> [flaskLogin](./flaskLogin/)
+
 ## Pandas
 Reference for the commonly used data science/analytics python tool.  
 Quick click --> [pandas](./pandas)

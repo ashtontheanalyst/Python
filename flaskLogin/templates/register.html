@@ -8,6 +8,14 @@
 <body>
     <h1>Registration Page</h1>
     <a href="{{url_for('home')}}">Home Page</a><br>
-    <a href="{{url_for('login')}}">Already Have an Account? Sign In</a><br>
+    <a href="{{url_for('login')}}">Already Have an Account? Sign In</a><br><br>
+
+    <!-- This pulls our form function and values from app.py -->
+    <form method="POST" action="">
+        {{ form.hidden_tag() }}
+        {{ form.username }}
+        {{ form.password }}
+        {{ form.submit }}
+    </form>
 </body>
 </html>

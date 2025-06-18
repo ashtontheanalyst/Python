@@ -4,6 +4,13 @@ Simple [login screen](https://www.youtube.com/watch?v=71EU8gnZqZQ) for a flask a
 
 ## Virtual Environment for Python Instructions
 
+### Ideas for Later
+- The original site from the video had a register and login page, what if I
+just wanted a login page and could manually input users into the db. So like
+having a user account and an admin account and that's it. Would multiple PCs
+be able to log into the same account or will it go boom?
+- How do I edit the sqlite DB to either add, remove, or edit users?
+
 ### Create the Environment
 ```sh
 python -m venv myenv

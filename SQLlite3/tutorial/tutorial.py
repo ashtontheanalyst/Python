@@ -1,3 +1,5 @@
+# Following: https://www.youtube.com/watch?v=pd-0G0MigUA
+
 # SQLite3 is a standard library in Python so no need to download or pip
 import sqlite3
 
@@ -95,8 +97,30 @@ c.execute("SELECT * FROM employees")
 print(c.fetchall())
 
 
-# Delete all records from the table
-# c.execute("DELETE FROM employees")
+# This is using different functions to accomplish the above tasks
+def insertEmp(emp):
+    # This will commit automatically for us and raise an exception or error if there is one
+    with conn:
+        c.execute("INSERT INTO employees VALUES (:first, :last, :pay)",
+                {'first': emp.first, 'last': emp.last, 'pay': emp.pay})
+        
+def getEmpyByName(lastname):
+    # This doesn't need to be committed since it's a look up so we don't have to
+    # put it inside the context manager like in insertEmp()
+    c.execute("SELECT * FROM employees WHERE last=:last", {'last': lastname})
+    return c.fetchall()
+
+def updatePay(emp, pay):
+    with conn:
+        c.execute("""UPDATE employees SET par = :pay
+                  WHERE first = :first AND last = :last""",
+                  {'first': emp.first, 'last':emp.last, 'pay': pay})
+        
+def removeEmp(emp):
+    with conn:
+        c.execute("DELETE from employees WHERE first = :first AND last = :last",
+                  {'first': emp.first, 'last': emp.last})
+
 
 # Commits the transaction to the db, like github
 conn.commit()
